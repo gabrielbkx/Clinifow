@@ -30,13 +30,13 @@ Nosso foco é na **Experiência do Usuário (UX)**, garantindo que o ciclo compl
 
 Este projeto é construído sobre uma arquitetura robusta e moderna, utilizando as seguintes tecnologias:
 
-| Categoria | Tecnologia | Versão/Descrição |
+| Categoria | Tecnologia |
 | :--- | :--- | :--- |
 | **Backend** | **Java** |
 | **Framework** | **Spring Boot** | 
 | **Frontend** | **JSF (JavaServer Faces)** 
 | **Frontend (Suporte)** | **PrimeFaces** |
-| **Banco de Dados** | **H2 (Em Desenvolvimento)** | 
+| **Banco de Dados** | **H2 (Em Desenvolvimento)** | **Postgres(AWS)
 | **Persistência** | **JPA / Hibernate** | 
 
 ## 📊 Entidades Principais (A Estrutura do Sistema)
